@@ -1,3 +1,10 @@
+"""_summary_
+Apply MLN to denoise binary image.
+Returns:
+    denoised image
+"""
+
+
 import numpy as np
 from PIL import Image
 import matplotlib.pyplot as plt
